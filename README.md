@@ -52,6 +52,14 @@ This project demonstrates a typical workflow using LangChain to build natural la
 - A context-aware, accurate, and fluent natural language response is returned to the user.
 
 ---
+## 📋 Prerequisites
+
+- [Ollama](https://ollama.com/) installed and running
+- A supported LLM (e.g., `llama3`, `mistral`, `deepseek` etc.) pulled via Ollama and running locally
+- Python and Pipenv installed
+
+---
+
 ## 🛠️ Installation & Running
 
 ```bash
